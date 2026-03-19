@@ -1,4 +1,4 @@
-# 是宝蓝 🐺
+# 是宝蓝 🐺 宝の青です。 よろしくね〜
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,windicss,nodejs,php,java,spring,kotlin,go,mongodb,mysql)](https://skillicons.dev)
 
